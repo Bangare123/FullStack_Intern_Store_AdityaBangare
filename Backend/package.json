@@ -1,0 +1,14 @@
+{
+  "name": "store-rating-backend",
+  "version": "1.0.0",
+  "description": "Store Rating Platform Backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node --env-file=.env src/server.js",
+    "dev": "node --watch --env-file=.env src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.23.0"
+  }
+}
