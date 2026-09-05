@@ -7,9 +7,6 @@ const userRoutes = require("./routes/userRoutes");
 const ownerRoutes = require("./routes/ownerRoutes");
 
 const app = express();
-
-
-
 app.use(express.json());
 
 app.use((req, res, next) => {
@@ -20,7 +17,6 @@ app.use((req, res, next) => {
 
   next();
 });
-
 
 app.use((req, res, next) => {
   res.header(
@@ -45,15 +41,11 @@ app.use((req, res, next) => {
   next();
 });
 
-
-
 app.get("/", (req, res) => {
   res.json({
     message: "Store Rating API is running"
   });
 });
-
-
 
 app.get("/api/test-db", async (req, res) => {
   try {
@@ -80,6 +72,5 @@ app.use("/api/test", testRoutes);
 app.use("/api/admin", adminRoutes);
 app.use("/api", userRoutes);
 app.use("/api/owner", ownerRoutes);
-
 
 module.exports = app;
