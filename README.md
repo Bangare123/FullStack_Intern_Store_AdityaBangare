@@ -18,3 +18,15 @@
 
 # Add User
 <img width="1920" height="969" alt="Image" src="https://github.com/user-attachments/assets/972ae4ec-d1e1-44a6-ac5c-a9eedfd86195" />
+
+# Normal User Dashboard
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/412df95c-7a73-4068-8920-b0478b3ed448" />
+
+# Change Password
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d87093b-b3ce-441e-92cf-cb6c3d0bb93d" />
+
+# Store Owner Dashboard
+<img width="1920" height="969" alt="Image" src="https://github.com/user-attachments/assets/01b5713b-13a0-4992-b1a0-ddae8b58473b" />
+
+# Change Password
+<img width="1920" height="977" alt="Image" src="https://github.com/user-attachments/assets/4b82fc5e-de91-4bab-a5d4-04e572456ff9" />
